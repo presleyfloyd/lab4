@@ -11,7 +11,7 @@ body
 .nav-menu li 
     {list-style-type: none;
     display: inline;
-    padding: 0 30px;
+    padding: 30px;
     font-size: 25px;}
 a 
     {color: navy;
