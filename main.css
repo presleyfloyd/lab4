@@ -1,11 +1,13 @@
 li{list-style-type: none;
     display: inline;
-    padding-left:10px;
+    padding-left:30px;
     padding-right:30px;
-    font-size:25px;
-    style: black;}
+    font-size:25px;}
 ul{Background-color:red;
-    padding-left:15px;
+    padding-left:35px;
     padding-right:35px;
     padding-top:30px;
-    padding-bottom:30px;}
+    padding-bottom:30px;
+    text-align:left;}
+a{color:black;
+text-decoration:none;}
