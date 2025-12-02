@@ -1,20 +1,15 @@
-body    
-    {color: navy;
+body{color: navy;
     background-color: whitesmoke;}
-.tagline 
-    {margin-left: 30px;
+.tagline{margin-left: 30px;
     font-size: 30px;}
-.nav-menu 
-    {background-color: lightgray;
+.nav-menu{background-color: lightgray;
     padding: 30px 35px;
     text-align: left;}
-.nav-menu li 
-    {list-style-type: none;
+.nav-menu li{list-style-type: none;
     display: inline;
     padding: 30px;
     font-size: 25px;}
-a 
-    {color: navy;
+a{color: navy; 
     text-decoration: none;}
 h1 { color: midnightblue;}
 h2 {color: midnightblue;}
